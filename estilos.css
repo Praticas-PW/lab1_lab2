@@ -1,0 +1,12 @@
+*{font-family: 'Golos Text', sans-serif;}
+body{
+    background-color: white;
+}
+#fieldset1{
+    background-color: burlywood;
+    opacity: 100%;
+}
+#fieldsetQuestions{
+    background-color: burlywood;
+    opacity: 100%;
+}
