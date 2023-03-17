@@ -6,7 +6,7 @@ body{
     background-color: burlywood;
     opacity: 100%;
 }
-#fieldsetQuestions{
-    background-color: burlywood;
-    opacity: 100%;
+#poem{
+    text-align: center;
+    white-space: pre-line;
 }
